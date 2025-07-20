@@ -1,5 +1,5 @@
 # 📘 Foco Turbinado: A Aliança entre a IA e o TDAH
-
+<img src="" alt="Espaço Elis" width="600"  />
 Bem-vindo(a) ao repositório oficial do eBook **"Foco Turbinado: A Aliança entre a IA e o TDAH"**!  
 Este projeto nasceu da experiência pessoal de M. Geraldo com o Transtorno do Déficit de Atenção com Hiperatividade (TDAH) e sua trajetória profissional na área de tecnologia e saúde pública.
 
