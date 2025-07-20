@@ -1,11 +1,17 @@
-<table align="inline">
- <tr><td><a href="README_eng.md"><img src="https://github.com/mggcode/mggcode/blob/main/image/us-flag.png?raw=true" height="15"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="https://github.com/mggcode/mggcode/blob/main/image/sp_flag.png?raw=true" width="15" height="10">Español</a></td></tr>
-  <tr><td><a href="README.md"><img src="https://github.com/mggcode/mggcode/blob/main/image/br-flag.png?raw=true" width="15" height="15"> Português</a></td></tr>
+<p align="right">
+
+<table>
+<tr>
+<td><a href="README_eng.md"><img src="https://github.com/mggcode/mggcode/blob/main/image/us-flag.png?raw=true" height="15"> English</a></td>
+<td><a href="README_es.md"><img src="https://github.com/mggcode/mggcode/blob/main/image/sp_flag.png?raw=true" width="15" height="10"> Español</a></td>
+<td><a href="README.md"><img src="https://github.com/mggcode/mggcode/blob/main/image/br-flag.png?raw=true" width="15" height="15"> Português</a></td>
+</tr>
 </table>
 
-<br>
-<br>
+</p>
+
+
+
 # 📘 Foco Turbinado: A Aliança entre a IA e o TDAH
 
 Bem-vindo(a) ao repositório oficial do eBook **"Foco Turbinado: A Aliança entre a IA e o TDAH"**!  
