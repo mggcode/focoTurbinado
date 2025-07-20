@@ -87,3 +87,9 @@ Este projeto está licenciado sob a  ![card Badge](https://img.shields.io/badge/
 
 🧠 Que a tecnologia seja uma ponte e não um obstáculo para quem vive com TDAH.
 
+
+
+
+
+
+
