@@ -48,8 +48,6 @@ M. Geraldo atua há mais de 10 anos no Sistema Único de Saúde (SUS), uniu sua 
 
 - Engenharia de software  
 - Análise de sistemas  
-- Administração pública  
-- Gestão pública  
 - Inteligência Artificial aplicada
 
 Essa combinação deu origem ao **Foco Turbinado**, um projeto que acredita no poder da tecnologia como aliada na vida de pessoas neurodivergentes.
