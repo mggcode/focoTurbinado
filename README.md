@@ -68,12 +68,20 @@ Se você tem sugestões de ferramentas, estratégias ou melhorias para este proj
 
 Para dúvidas, feedbacks ou parcerias:
 
-- Email: [mggeraldo@protonmail.com]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marta-geraldo/)](https://www.linkedin.com/in/marta-geraldo/)
+ [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=&link=https://github.com/martageraldo)](https://github.com/martageraldo)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
+[![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com) 
+[![Netlify Badge](https://img.shields.io/badge/netlify-%23000000.svg?style=social-square&logo=netlify&logoColor=#00C7B7)](https://martageraldo.netlify.app/)
+
+<br>
+
+
 
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [Licença Creative Commons - Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+Este projeto está licenciado sob a  ![card Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ---
 
