@@ -24,11 +24,8 @@ Com linguagem acessível e estratégias testadas no dia a dia, o livro apresenta
 
 Este repositório pode conter:
 
-- Trechos e amostras do eBook (quando autorizado)
-- Links para download ou compra do livro
 - Ferramentas e templates citados no eBook
 - Sugestões de apps baseados em IA úteis para TDAH
-- Scripts e exemplos de automações pessoais
 - Atualizações, erratas e complementos futuros
 
 ## 👩‍💻 Sobre a Autora
@@ -56,9 +53,8 @@ Se você tem sugestões de ferramentas, estratégias ou melhorias para este proj
 
 Para dúvidas, feedbacks ou parcerias:
 
-- Email: [seu-email-aqui@example.com]
-- LinkedIn: [linkedin.com/in/seu-perfil]
-- Instagram: [@seu_usuario]
+- Email: [mggeraldo@protonmail.com]
+
 
 ## 📄 Licença
 
@@ -66,5 +62,5 @@ Este projeto está licenciado sob a [Licença Creative Commons - Atribuição-N�
 
 ---
 
-🧠 Que a tecnologia seja uma ponte — e não um obstáculo — para quem vive com TDAH.
+🧠 Que a tecnologia seja uma ponte e não um obstáculo para quem vive com TDAH.
 
