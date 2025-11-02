@@ -19,7 +19,7 @@ This project was born from M. Geraldo’s personal experience with Attention Def
 
 <img src="https://github.com/mggcode/focoTurbinado/blob/main/CapaEbookIAEN.png?raw=true" alt="Foco Turbinado"  width="300"  />
 
-[![Download]()]
+[[Download]()]
 
 <br>
 
