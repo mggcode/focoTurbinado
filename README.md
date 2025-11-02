@@ -19,6 +19,8 @@ Este projeto nasceu da experiência pessoal de M. Geraldo com o Transtorno do D�
 
 <img src="https://github.com/mggcode/focoTurbinado/blob/main/CapaEbookIA.png?raw=true" alt="Foco Turbinado"  width="300"  />
 
+[[Download](https://github.com/mggcode/focoTurbinado/blob/main/ebookfocoTurbinadopt.pdf)]
+
 <br>
 
 ## 🌟 Sobre o eBook
