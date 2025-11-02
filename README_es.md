@@ -17,8 +17,9 @@ Este proyecto nació de la experiencia personal de M. Geraldo con el Trastorno p
 
 <br>
 
-<img src="https://github.com/mggcode/focoTurbinado/blob/main/CapaEbookIA.png?raw=true" alt="Foco Turbinado"  width="300"  />
+<img src="https://github.com/mggcode/focoTurbinado/blob/main/CapaEbookIAES.png?raw=true" alt="Foco Turbinado"  width="300"  />
 
+[[Download]()]
 <br>
 
 ## 🌟 Sobre el eBook
